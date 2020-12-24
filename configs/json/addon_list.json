@@ -1,0 +1,154 @@
+{
+    "providers": {
+        "episode4": {
+            "name": "episode4",
+            "domain": "episode4.episode4",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/episode4.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "5movies": {
+            "name": "5movies",
+            "domain": "5movies.5movies",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/5movies.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "hdmo": {
+            "name": "hdmo",
+            "domain": "hdmo.hdmo",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/hdmo.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "m4u": {
+            "name": "m4u",
+            "domain": "m4u.m4u",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/m4u.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "watchonl": {
+            "name": "watchonl",
+            "domain": "watchonl.watchonl",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/watchonl.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "sourcehd": {
+            "name": "sourcehd",
+            "domain": "sourcehd.sourcehd",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/sourcehd.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "sourcehdnew": {
+            "name": "sourcehdnew",
+            "domain": "sourcehdnew.sourcehdnew",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/sourcehdnew.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        },
+        "hlx": {
+            "name": "hlx",
+            "domain": "hlx.hlx",
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/embeds/hlx.js",
+            "type": [
+                "movie",
+                "tv"
+            ]
+        }
+    },
+    "hosts": {
+        "vidlox": {
+            "name": "vidlox",
+            "domain": "vidlox.me",
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/vidlox.js"
+        },
+        "vidoza": {
+            "name": "vidoza",
+            "domain": "vidoza.net",
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/vidoza.js"
+        },
+        "clipwatching": {
+            "name": "clipwatching",
+            "domain": "clipwatching.com",
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/clipwatching.js"
+        },
+        "videobin": {
+            "name": "videobin",
+            "domain": "videobin.co",
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/videobin.js"
+        },
+        "fembed": {
+            "name": "fembed",
+            "domain": [
+                "fembed.com",
+                "feurl.com",
+                "streamhoe.online",
+                "gcloud.live"
+            ],
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/fembed.js"
+        },
+        "mixdrop": {
+            "name": "mixdrop",
+            "domain": [
+                "mixdrop.co",
+                "mixdrop.to"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/mixdrop.js"
+        },
+        "cloudvideo": {
+            "name": "cloudvideo",
+            "domain": [
+                "cloudvideo.tv"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/cloudvideo.js"
+        },
+        "abcvideo": {
+            "name": "abcvideo",
+            "domain": [
+                "abcvideo.cc"
+            ],
+            "version": "0.0.1",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/abcvideo.js"
+        },
+        "vidiatv": {
+            "name": "vidiatv",
+            "domain": [
+                "vidia.tv"
+            ],
+            "version": "0.0.20",
+            "url": "https://raw.githubusercontent.com/freeuila/navofr/master/configs/directs/vidiatv.js"
+        }
+    }
+}
